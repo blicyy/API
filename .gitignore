@@ -3,6 +3,7 @@
 !/.yarn/plugins
 !/.yarn/sdks
 
+.DS_STORE
 .yarn/
 .pnp.js
 yarn.lock
