@@ -1,0 +1,25 @@
+{
+  "name": "express",
+  "description": "Express.js",
+  "version": "1.0.0",
+  "main": "src/core.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "js"
+  ],
+  "author": "Blicy",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.12",
+    "@types/node": "^15.14.0",
+    "typescript": "^4.3.5"
+  }
+}
